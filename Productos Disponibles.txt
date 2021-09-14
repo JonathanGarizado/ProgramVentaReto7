@@ -1,0 +1,2 @@
+Fecha=2021-09-14
+Productos Disponibles={'aaaa': {'Codigo': 123, 'Cantidad': 9, 'Precio': 1500.0}, 'qwqw': {'Codigo': 456, 'Cantidad': 13, 'Precio': 1800.0}}
